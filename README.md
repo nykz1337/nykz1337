@@ -1,4 +1,4 @@
-### Dropout
+### Nykz
 
 **Languages and Tools:**
 
